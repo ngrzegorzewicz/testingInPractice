@@ -1,0 +1,22 @@
+[
+  {
+  "name" : "cardType",
+  "type" : "select",
+  "selectorType" : "id",
+  "selector" : "task8_form_cardType"
+  },
+  {
+    "name" : "cardOwner",
+    "type" : "input",
+    "selectorType" : "id",
+    "selector" : "task8_form_name"
+  },
+  {
+    "name" : "submit",
+    "type" : "button",
+    "selectorType" : "name",
+    "selector" : "task8_form[save]"
+  }
+]
+
+
